@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node": "^20.6.0",
+    "ws": "^8.14.1"
+  },
+  "scripts": {
+    "odunga": "node server.js"
+  }
+}
